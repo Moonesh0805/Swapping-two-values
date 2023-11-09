@@ -34,7 +34,7 @@ print("Swapped values are:",x,y)
 ![OUTPUT](/Swapping-two-values/swapping.png)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
